@@ -13,4 +13,4 @@
 - La balise title contiendra la mention "Symfony & table de pythagore"
 - Il y aura aussi une balise h1 avec votre nom et prénom
 
-- Commit et push votre fichier AVANT LE 09 OCTOBRE
+- Commit et push votre fichier AVANT LE 11 (23h59) OCTOBRE
