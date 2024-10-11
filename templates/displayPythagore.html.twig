@@ -17,12 +17,12 @@
     {% endblock %}
 </header>
 <main>
-    {% block main %}{% endblock %}
+    {% block main %}{{html|raw}}{% endblock %}
 </main>
 <footer>
     {% block footer %}
         <div class="footer-container">
-            <p>© 2024 Table de Pgythagore. Tous droits réservés.</p>
+            <p> Table de Pgythagore</p>
         </div>
     {% endblock %}
 </footer>

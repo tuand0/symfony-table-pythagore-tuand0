@@ -16,6 +16,7 @@ class PythagoreController extends AbstractController
         $this->pythagoreUtility = $pythagoreUtility;
     }
 
+    #[Route('/pythagore', name:'pythagore')]
     public function index(): Response
     {
         $html = $this->pythagoreUtility->display();
